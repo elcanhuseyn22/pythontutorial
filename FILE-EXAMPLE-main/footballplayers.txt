@@ -1,0 +1,36 @@
+Manuel Neuer,Bayern
+Ter Stegen,Barcelona
+Keylor Navas,PSG
+Niklas Süle,Bayern
+Gerard Pigue,Barcelona
+Sergio Ramos,PSG
+Benjamin Pavar,Bayern
+Sergi Roberto,Barcelona
+Achraf Hakimi,PSG
+Lucas Hernández,Bayern
+Jordi Alba,Barcelona
+Cloin Dagba,PSG
+Alphonso Davies,Bayern
+Samuel Umtiti,Barcelona
+Nuno Mendes,PSG
+Joshua Kimmich,Bayern
+Sergio Busqets,Barcelona
+Marco Verratti,PSG
+Leon Goretzka,Bayern
+Phlippe Coutinho,Barcelona
+Leandro Parades,PSG
+Corentin Tolisso,Bayern
+Rigui Piug,Barcelona
+Angel Di Maria,PSG
+Serge Gnabry,Bayern
+Ousmane Dembele,Barcelona
+Kylian Mbappe,PSG
+Robert Lewandowski,Bayern
+Ansu Fati,Barcelona
+Mauro Icardi,PSG
+Thomas Müller,Bayern
+Serio Agüero,Barcelona
+Neymar Jr,PSG
+Leroy Sane,Bayern
+Luuk De Jong,Barcelona
+Lionel Messi,PSG
